@@ -1,6 +1,7 @@
 Lagos has many beautiful cities
 Banana_island
-Ikoyi
-Lekki
+Surulere
+Victoria_island
 Ikeja
-
+Magodo
+Apapa
